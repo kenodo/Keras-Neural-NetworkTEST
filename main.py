@@ -1,5 +1,3 @@
-from keras.preprocessing import image
-import numpy as np
 import os
 import train.py as model
 import test.py
